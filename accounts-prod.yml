@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 accounts:
-  message: "Welcome to EazyBank accounts related production APIs"
+  message: "Welcome to EazyBank accounts related prod APIs"
   contactDetails:
     name: "Fred Flintstone- Product Owner"
     email: "{cipher}6b5b4a5c5954175fa89e00e330288ef1a887a7071d225a57d62fa2e6d5db6b050014ea9f6a00cd5ac64e615742c5d89b"
