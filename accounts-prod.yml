@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+accounts:
+  message: "Welcome to EazyBank accounts related PROD APIs"
+  contactDetails:
+    name: "Fred Flintstone- Product Owner"
+    email: "fred@eazybank.com"
+  onCallSupport:
+    - (777)777-1234
+    - (777)777-1345
