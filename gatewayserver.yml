@@ -1,7 +1,7 @@
 server:
   port: 8072
 
-eurekaserver:
+eureka:
   instance:
     preferIpAddresses: true
   client:
